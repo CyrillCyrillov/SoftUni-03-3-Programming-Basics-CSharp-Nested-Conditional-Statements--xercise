@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\bin\Debug\netcoreapp3.1\Task03A_New_House.exe
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\bin\Debug\netcoreapp3.1\Task03A_New_House.deps.json
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\bin\Debug\netcoreapp3.1\Task03A_New_House.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\bin\Debug\netcoreapp3.1\Task03A_New_House.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\bin\Debug\netcoreapp3.1\Task03A_New_House.dll
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\bin\Debug\netcoreapp3.1\Task03A_New_House.pdb
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.dll
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.pdb
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.genruntimeconfig.cache
+C:\Users\Kiril\source\repos\Exercise03\Task03A_New_House\obj\Debug\netcoreapp3.1\Task03A_New_House.csprojAssemblyReference.cache
